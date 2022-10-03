@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello! :wave: My name is Morgan.
+- :computer: I’m a software engineer at [resilient coders](https://resilientcoders.org)
+- :ledger: I'm currently working on building up my portfolio
+- :office_worker: You can reach me via [LinkedIn](https://linkedin.com/in/morganodowning)
 <!--
 **code-1-Morgan/code-1-Morgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
