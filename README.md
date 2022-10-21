@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=5000&color=15F744&width=435&lines=Hello!+My+name+is+Morgan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=3000&color=13F74A&background=000000&center=true&vCenter=true&width=700&height=81&lines=Welcome!+My+name+is+Morgan.)](https://git.io/typing-svg)
+
 - :computer: I’m a fullstack Software Engineer with [Resilient Coders](https://resilientcoders.org)
 - :ledger: I'm currently working on building up my portfolio
 - :briefcase: You can reach me via [LinkedIn](https://linkedin.com/in/morganodowning)
